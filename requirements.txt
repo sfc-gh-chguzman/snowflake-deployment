@@ -1,0 +1,8 @@
+pip
+pip-system-certs
+dbt-core==1.8.8
+dbt-snowflake==1.8.4
+snowflake-connector-python[secure-local-storage,pandas]
+snowflake-snowpark-python[pandas]
+snowflake-cli==3.10.0 
+schemachange==4.0.*
