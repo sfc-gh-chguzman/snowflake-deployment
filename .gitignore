@@ -1,3 +1,4 @@
 bc_dr/
 *.der
 *.pem
+.DS_Store
