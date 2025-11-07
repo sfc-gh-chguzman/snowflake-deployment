@@ -1,0 +1,9 @@
+definition_version: 1
+streamlit:
+  name: executive_dashboard
+  stage: streamlit_stage
+  query_warehouse: COMPUTE_WH
+  main_file: streamlit_app.py
+  title: "Executive Dashboard"
+  comment: "Food Truck Business Analytics Dashboard for Executives"
+

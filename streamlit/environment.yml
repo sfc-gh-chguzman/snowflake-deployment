@@ -1,0 +1,10 @@
+# Snowflake Streamlit environment configuration
+name: streamlit_app
+channels:
+  - snowflake
+dependencies:
+  - snowflake-snowpark-python
+  - streamlit
+  - plotly
+  - pandas
+
